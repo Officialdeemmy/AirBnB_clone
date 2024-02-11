@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" hajar write here """
+""" __init__ magic method for models directory """
 from models.engine.file_storage import FileStorage
 
 storage = FileStorage()
