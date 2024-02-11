@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-hajar write here
+City Module for HBNB project
 """
 from models.base_model import BaseModel
 
