@@ -1,7 +1,5 @@
 #!/usr/bin/python3
-"""
-hajar write here
-"""
+""" Review module for the HBNB project """
 from models.base_model import BaseModel
 
 
