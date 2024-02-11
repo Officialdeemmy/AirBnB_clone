@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-hajar write here
+initialize the models package
 """
 from models.base_model import BaseModel
 
